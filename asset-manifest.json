@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TBDB-Movies-and-TV-Shows-App/static/css/main.7b3c70f0.chunk.css",
+    "main.js": "/TBDB-Movies-and-TV-Shows-App/static/js/main.50f10310.chunk.js",
+    "main.js.map": "/TBDB-Movies-and-TV-Shows-App/static/js/main.50f10310.chunk.js.map",
+    "runtime-main.js": "/TBDB-Movies-and-TV-Shows-App/static/js/runtime-main.d2760cfe.js",
+    "runtime-main.js.map": "/TBDB-Movies-and-TV-Shows-App/static/js/runtime-main.d2760cfe.js.map",
+    "static/js/2.b612a5f3.chunk.js": "/TBDB-Movies-and-TV-Shows-App/static/js/2.b612a5f3.chunk.js",
+    "static/js/2.b612a5f3.chunk.js.map": "/TBDB-Movies-and-TV-Shows-App/static/js/2.b612a5f3.chunk.js.map",
+    "index.html": "/TBDB-Movies-and-TV-Shows-App/index.html",
+    "precache-manifest.548c4d1e22b30bf03e19d79abdca9084.js": "/TBDB-Movies-and-TV-Shows-App/precache-manifest.548c4d1e22b30bf03e19d79abdca9084.js",
+    "service-worker.js": "/TBDB-Movies-and-TV-Shows-App/service-worker.js",
+    "static/css/main.7b3c70f0.chunk.css.map": "/TBDB-Movies-and-TV-Shows-App/static/css/main.7b3c70f0.chunk.css.map",
+    "static/js/2.b612a5f3.chunk.js.LICENSE.txt": "/TBDB-Movies-and-TV-Shows-App/static/js/2.b612a5f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2760cfe.js",
+    "static/js/2.b612a5f3.chunk.js",
+    "static/css/main.7b3c70f0.chunk.css",
+    "static/js/main.50f10310.chunk.js"
+  ]
+}
